@@ -1,0 +1,7 @@
+P:\oop 06\oop 06\bin\Debug\oop 06.exe.config
+P:\oop 06\oop 06\bin\Debug\oop 06.exe
+P:\oop 06\oop 06\bin\Debug\oop 06.pdb
+P:\oop 06\oop 06\obj\Debug\oop 06.csproj.AssemblyReference.cache
+P:\oop 06\oop 06\obj\Debug\oop 06.csproj.CoreCompileInputs.cache
+P:\oop 06\oop 06\obj\Debug\oop 06.exe
+P:\oop 06\oop 06\obj\Debug\oop 06.pdb

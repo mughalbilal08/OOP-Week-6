@@ -1,0 +1,21 @@
+P:\challenge 1\challenge 1\bin\Debug\challenge 1.exe.config
+P:\challenge 1\challenge 1\bin\Debug\challenge 1.exe
+P:\challenge 1\challenge 1\bin\Debug\challenge 1.pdb
+P:\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.AssemblyReference.cache
+P:\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.CoreCompileInputs.cache
+P:\challenge 1\challenge 1\obj\Debug\challenge 1.exe
+P:\challenge 1\challenge 1\obj\Debug\challenge 1.pdb
+C:\Users\dell\Downloads\challenge 1\challenge 1\bin\Debug\challenge 1.exe.config
+C:\Users\dell\Downloads\challenge 1\challenge 1\bin\Debug\challenge 1.exe
+C:\Users\dell\Downloads\challenge 1\challenge 1\bin\Debug\challenge 1.pdb
+C:\Users\dell\Downloads\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\challenge 1\challenge 1\obj\Debug\challenge 1.exe
+C:\Users\dell\Downloads\challenge 1\challenge 1\obj\Debug\challenge 1.pdb
+C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\bin\Debug\challenge 1.exe.config
+C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\bin\Debug\challenge 1.exe
+C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\bin\Debug\challenge 1.pdb
+C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.AssemblyReference.cache
+C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.exe
+C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.pdb
