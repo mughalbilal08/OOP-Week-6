@@ -1,0 +1,3 @@
+D:\OOP_Lab\Packman\Packman\obj\Debug\Packman.csproj.AssemblyReference.cache
+D:\OOP_Lab\Packman\Packman\obj\Debug\Packman.csproj.SuggestedBindingRedirects.cache
+D:\OOP_Lab\Packman\Packman\obj\Debug\Packman.csproj.CoreCompileInputs.cache

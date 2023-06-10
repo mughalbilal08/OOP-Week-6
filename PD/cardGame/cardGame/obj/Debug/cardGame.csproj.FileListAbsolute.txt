@@ -1,0 +1,7 @@
+P:\OOP Weeks\OOP Week 06\PD\cardGame\cardGame\bin\Debug\cardGame.exe.config
+P:\OOP Weeks\OOP Week 06\PD\cardGame\cardGame\bin\Debug\cardGame.exe
+P:\OOP Weeks\OOP Week 06\PD\cardGame\cardGame\bin\Debug\cardGame.pdb
+P:\OOP Weeks\OOP Week 06\PD\cardGame\cardGame\obj\Debug\cardGame.csproj.AssemblyReference.cache
+P:\OOP Weeks\OOP Week 06\PD\cardGame\cardGame\obj\Debug\cardGame.csproj.CoreCompileInputs.cache
+P:\OOP Weeks\OOP Week 06\PD\cardGame\cardGame\obj\Debug\cardGame.exe
+P:\OOP Weeks\OOP Week 06\PD\cardGame\cardGame\obj\Debug\cardGame.pdb

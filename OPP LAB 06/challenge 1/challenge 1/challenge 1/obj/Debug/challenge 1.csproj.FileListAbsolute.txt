@@ -19,3 +19,10 @@ C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\
 C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.CoreCompileInputs.cache
 C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.exe
 C:\Users\Bilal Iftikhar\Downloads\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.pdb
+F:\Programming\2nd Semester\OOP Week 06\OPP LAB 06\challenge 1\challenge 1\challenge 1\bin\Debug\challenge 1.exe.config
+F:\Programming\2nd Semester\OOP Week 06\OPP LAB 06\challenge 1\challenge 1\challenge 1\bin\Debug\challenge 1.exe
+F:\Programming\2nd Semester\OOP Week 06\OPP LAB 06\challenge 1\challenge 1\challenge 1\bin\Debug\challenge 1.pdb
+F:\Programming\2nd Semester\OOP Week 06\OPP LAB 06\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.AssemblyReference.cache
+F:\Programming\2nd Semester\OOP Week 06\OPP LAB 06\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.CoreCompileInputs.cache
+F:\Programming\2nd Semester\OOP Week 06\OPP LAB 06\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.exe
+F:\Programming\2nd Semester\OOP Week 06\OPP LAB 06\challenge 1\challenge 1\challenge 1\obj\Debug\challenge 1.pdb
